@@ -4,7 +4,8 @@
 
 #### About Me:
 
-  - 🔭 I’m currently working as QA Analyst
+- ⌨️ I'm currently working as Junior Developer
+- 🔭 I already worked as QA Analyst
 - 🌱 I’m currently learning NodeJS & C# for test automation
 - 🔒 I'm currently stu**dying** Cyber Security
 - 🤩 I realy appreciate NodeJS and Python
