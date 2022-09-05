@@ -4,7 +4,7 @@
 
 #### About Me:
 
-- ⌨️ I'm currently working as Junior Developer
+<!-- - ⌨️ I'm currently working as Junior Developer -->
 - 🔭 I already worked as QA Analyst with Java, C# and Ruby
 - 🌱 I’m currently learning NodeJS for Development
 - 🔒 I'm currently stu**dying** Cyber Security
