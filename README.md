@@ -6,9 +6,9 @@
 
 <!-- - ⌨️ I'm currently working as Junior Developer -->
 - 🔭 I already worked as QA Analyst with Java, C# and Ruby
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React with JS and TS
 - 🔒 I'm currently stu**dying** Cyber Security and System Development
-- 🤩 I realy appreciate JS and Python
+<!-- - 🤩 I realy appreciate JS and Python -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
