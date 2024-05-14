@@ -1,14 +1,14 @@
 ## Hello there 🦾
 
-<img height="auto" alt="Pietro-GIF" src="https://i.pinimg.com/originals/24/d9/d1/24d9d1599bba4d2d78163e7640e7e3f9.gif">
+<!--<img height="auto" alt="Pietro-GIF" src="https://i.pinimg.com/originals/24/d9/d1/24d9d1599bba4d2d78163e7640e7e3f9.gif"> -->
 
 #### About Me:
 
 <!-- - ⌨️ I'm currently working as Junior Developer -->
 - 🔭 I already worked as QA Analyst with Java, C# and Ruby
-- 🌱 I’m currently learning React with JS and TS
-- 🔒 I'm currently stu**dying** Cyber Security and System Development
-<!-- - 🤩 I realy appreciate JS and Python -->
+- 🌱 I’m currently learning VUE with JS and TS
+- 📖 I'm currently stu**dying** System Development
+- 🤩 I realy appreciate Java and JS
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
